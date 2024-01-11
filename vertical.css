@@ -1,0 +1,22 @@
+/* CSS for vertical navigation */
+    ul {
+	list-style-type: none;
+	margin:20;
+	padding:0;
+	width:110px;
+	background-color: yellow;
+	}
+	
+li a{ 
+	display: block;
+	color: black;
+	padding: 19px 16px;
+	text-decoration: none;
+	}
+	
+li a:hover{
+background-color: grey;
+
+}
+.active {
+  background-color:Gold;
